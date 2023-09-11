@@ -1,8 +1,8 @@
 #include <stdio.h>
- /**
- * main-entry point
- * Description: A C program that print with put function
- * return:this returns 0
+/**
+ * main-Entry point
+ * Description:A C program that print with put function
+ * Return:returns 0
  */
 
 int main(void)
