@@ -12,7 +12,7 @@ int main(void)
 		(c <= 'z') {
 			if ((c != 'q' && c != 'e') && c <= 'z')
 				putchar(c);
-			cc++;
+			c++;
 		}
 	putchar('\n');
 	return (0);
